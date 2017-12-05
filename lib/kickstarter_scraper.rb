@@ -10,3 +10,5 @@ class KickstarterScraper
 
   end
 end
+
+KickstarterScraper.new.create_project_hash

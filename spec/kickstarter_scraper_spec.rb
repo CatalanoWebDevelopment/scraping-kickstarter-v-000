@@ -1,5 +1,5 @@
 require 'nokogiri'
-require_relative '../lib/kickstarter_scraper.rb'
+require_relative '..kickstarter_scraper.rb'
 
 describe "#create_project_hash" do
 
